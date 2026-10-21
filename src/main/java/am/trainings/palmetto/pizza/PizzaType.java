@@ -1,6 +1,8 @@
-package am.trainings;
+package am.trainings.palmetto.pizza;
+
 
 public enum PizzaType {
+
     REGULAR(1d),
     CALZONE(1.5);
 
